@@ -65,7 +65,7 @@
       <button
         :disabled="refreshing"
         @click="refreshAll"
-        class="mt-9 border-2 border-blue-600 rounded-full text-blue-600 px-5 py-3 lg:hover:bg-blue-600 lg:hover:border-blue-600 lg:hover:text-white"
+        class="mt-9 border-2 border-blue-600 rounded-full text-blue-600 px-5 py-3 lg:hover:bg-blue-600 lg:hover:border-blue-600 lg:hover:text-white font-roboto"
       >
         Generate New
       </button>
