@@ -19,7 +19,7 @@
         </svg>
       </div>
 
-      <p class="px-12 font-Quote text-justify text-2xl text-gray-50">
+      <p class="px-12 font-QuoteC text-justify text-2xl text-gray-50">
         {{ quote.quote }}
       </p>
 

@@ -12,7 +12,9 @@ module.exports = {
     extend: {
       fontFamily: {
         Quote: ['Barriecito', 'cursive'],
-        Author: ['Lora', 'serif']
+        QuoteC: ['Cardo', 'serif'],
+        Author: ['Lora', 'serif'],
+        roboto: ['Roboto', 'sans-serif']
       }
     },
   },

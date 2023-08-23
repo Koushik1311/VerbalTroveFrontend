@@ -25,16 +25,16 @@
         <!-- Links -->
         <div
           v-if="isOpen"
-          class="absolute bottom-0 right-0 text-gray-50 grid grid-rows-4 mr-9 lg:mr-36 mb-40 bg-gray-600 rounded-md px-4 pt-7 h-30"
+          class="absolute bottom-0 right-0 text-gray-50 font-roboto up grid grid-rows-4 mr-9 lg:mr-36 mb-40 bg-gray-600 rounded-md px-4 pt-7 h-30"
         >
           <div>
             <NuxtLink to="/category">
-              <button class="hover:text-blue-500">Category</button>
+              <button class="hover:text-blue-500 uppercase">Category</button>
             </NuxtLink>
           </div>
           <div class="mt-3">
             <NuxtLink to="/">
-              <button class="hover:text-blue-500">Home</button>
+              <button class="hover:text-blue-500 uppercase">Home</button>
             </NuxtLink>
           </div>
         </div>
